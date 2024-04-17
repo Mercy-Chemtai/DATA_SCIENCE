@@ -1,5 +1,5 @@
 # DATA SCIENCE
-This repository contains three files that are stacks, tuples, and 
+This repository contains three files that are stacks, tuples, and queues. 
              
                  
                  ##Tuples
